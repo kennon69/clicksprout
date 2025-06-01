@@ -1,1 +1,0 @@
-module.exports = function applyWatermark(image) { console.log('Applying watermark...'); return image; };
