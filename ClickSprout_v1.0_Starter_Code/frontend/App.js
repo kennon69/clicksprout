@@ -1,1 +1,0 @@
-export default function App() { document.getElementById('root').innerText = 'ClickSprout v1.0 Loaded'; }
