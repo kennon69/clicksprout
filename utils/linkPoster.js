@@ -1,1 +1,0 @@
-module.exports = function postLink(link) { console.log(`Posting ${link}...`); return true; };
