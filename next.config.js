@@ -1,4 +1,5 @@
-// next.config.js
-module.exports = {
-  reactStrictMode: true,
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
 }
